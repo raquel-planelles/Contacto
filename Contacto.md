@@ -1,4 +1,4 @@
-j- 👋 Hi, I’m @raquel-planelles
+-👋 Hola, soy @raquel-planelles
 - 👀 I’m intereste la Inteligencia Artificial y la Robótica
 - 🌱 I’m currently learning Machine Learning y Deep Learning
 - 💞️ I’m looking to collaborate on cualquier empresa dedicada a la Inteligencia Artificial con Python
